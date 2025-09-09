@@ -26,7 +26,7 @@ These components are fully documented in Storybook, allowing developers to explo
 Clone the repo and install all the dependencies:  
 
 ```bash
-git clone https://github.com/your-username/simple-ui.git
+
 cd simple-ui
 npm install
 
@@ -108,3 +108,4 @@ yarn build
 ## Built With
 
 - [Vite](https://vitejs.dev/) - The web framework used
+
